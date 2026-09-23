@@ -1,6 +1,6 @@
 import json
 
-REPO_PATH = "yuracode/tokutohs/blob/main/lesson.ipynb"
+REPO_PATH = "yuracode/hokutohs/blob/main/lesson.ipynb"
 
 cells = []
 

@@ -6,7 +6,7 @@
 
 下のボタンをタップすると、Google Colaboratory でノートブックが開くよ！
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yuracode/tokutohs/blob/main/lesson.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yuracode/hokutohs/blob/main/lesson.ipynb)
 
 1. 📱 はじめに iPad の「設定 → 一般 → キーボード → **スマート句読点**」をオフにしよう
 2. 🚀 上の **Open in Colab** ボタンをタップ（Googleアカウントでログイン）
